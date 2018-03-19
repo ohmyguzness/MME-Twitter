@@ -1,0 +1,25 @@
+http://whatis.techtarget.com/definition/Twitterbot
+- Twitter Bot: a software program that sends out automated  posts on Twitter
+- Only 35% of people's followers on twitter actually real people majority are just twitter bots
+- Gives examples of various twitter bots such as
+  - @NiemanLabFuego finds and retweets the stories that most journalists are discussing.
+  - @trackthis tracks parcels for followers and sends them direct messages each time a package's location changes.
+  - @EarthquakesSF tweets about earthquakes in the San Francisco area in real time, using seismographic information from the USGS.
+  - @Betelgeuse_3 responds to tweets that include the phrase "beetlejuice, beetlejuice, beetlejuice" with replies in keeping with the eponymous character from that movie.
+  - @yesyoureracist and @yesyouresexist seek and autorespond to racist/sexist tweets.
+  - @stealthmountain seeks instances of "sneak peak" and responds with a correction: I think you mean "sneak peek."
+  - @anagramaton finds tweets that are anagrams of each other, using the same letters combined to make different phrases.
+
+https://www.newyorker.com/tech/elements/the-rise-of-twitter-bots
+- Twitter bots are, essentially, computer programs that tweet of their own accord
+- made possible by Twitter’s wide-open application programming interface, or A.P.I.
+    - Twitter’s API allows you to access certain points of a public profile. As a basic use of the API, you could write a program where you can search for someone’s username and it’ll return the profile page. Instead of walking up to the Twitter office every time you have a request, the API gives access to the program to return the profile page
+    - https://developer.twitter.com/en/docs
+- Twitter bots persevere, infusing one of our era’s great time-wasters with absurdity, serendipity, and chilling reminders of omnipresent surveillance
+    - https://twitter.com/nsa_prismbot
+
+https://www.fastcodesign.com/90144279/these-scientists-wanted-to-understand-bot-armies-so-they-built-their-own
+- A darker perspective on twitter bots
+- The bots that Ferrara have observed over the years are almost always used for malicious purposes. They manipulate political campaigns, they influence the stock market, they spread conspiracies, they deny science; “all sorts of bad things,” he says
+-  he published a study covered here on Co.Design showing that 20% of all political tweets during the televised presidential debates between Hillary Clinton and Donald Trump were made by bots. Today, automated Twitter users are still influencing the conversation around everything from the healthcare debate to the NFL’s #TakeAKnee controversy
+- 
