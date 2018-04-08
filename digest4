@@ -1,0 +1,23 @@
+https://www.theverge.com/2018/3/21/17149160/twitter-ciso-quitting-michael-coates-chief-information-security-officer
+- Twitter’s chief information security officer is leaving the company
+- Michael Coates joined Twitter in 2015
+- He is starting his own security startup
+
+https://towardsdatascience.com/twitter-demographics-user-age-inference-82ad7bf65229
+- “people who are close in age have similar interests as a result of age-related life events”
+- Teens(27.91%), Twenties(49.64%), Thirties(12.71%) and Forties Plus(9.73%)
+- Inferring age groups in social media (specially Twitter) remains an open and very challenging problem for ML since a generalized method has not been found. Maybe a mix of linguistic, metadata and user follows information can increase the current state of the art model performance
+
+http://www.pewinternet.org/2016/11/11/social-media-update-2016/
+- Americans1 (79%) now use Facebook, more than double the share that uses Twitter (24%), Pinterest (31%), Instagram (32%) or LinkedIn (29%). On a total population basis (accounting for Americans who do not use the internet at all), that means that 68% of all U.S. adults are Facebook users, while 28% use Instagram, 26% use Pinterest, 25% use LinkedIn and 21% use Twitter.
+- 24% of internet users (21% of all U.S. adults) use Twitter
+- Younger Americans are more likely than older Americans to be on Twitter. Some 36% of online adults ages 18-29 are on the social network, more than triple the share among online adults ages 65 and older (just 10% of whom are Twitter users)
+- Twitter is also somewhat more popular among the highly educated: 29% of internet users with college degrees use Twitter, compared with 20% of those with high school degrees or less.
+- And 42% of Twitter users indicate that they are daily visitors, with 23% saying they visit more than once a day.
+
+http://www.chicagotribune.com/bluesky/technology/ct-biz-bsi-twitter-users-20171027-story.html
+Twitter says it overstated the size of its user base for years
+- Twitter now counts 330 million monthly active users, up from 317 million at the same time last year.
+- Twitter reported that somewhere between 1 million and 2 million users of third-party apps per quarter had been incorrectly included in their numbers since late 2014
+-  Twitter does not share the number of daily active users, but it said it has grown by 14 percent
+-  International revenue was up by 6 percent year over year, at $258 million, and total ad engagement doubled, the company said, attributing the spike in part to successful video ads. Twitter generated $91 million in revenue in Japan, up 23 percent compared with last year.
